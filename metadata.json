@@ -1,0 +1,6 @@
+{
+  "name": "IRON PULSE // Split & Set Tracker",
+  "description": "High-contrast Iron and Neon gym workout split manager and set-by-set RPE logger with smart exercise ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

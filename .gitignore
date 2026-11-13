@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Capacitor / Android Build Artifacts & Keys (SENSITIVE / HEAVY)
+android/.gradle/
+android/app/build/
+android/capacitor.settings.gradle
+*.apk
+*.aab
+*.keystore
+*.jks
